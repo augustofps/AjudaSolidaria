@@ -1,1 +1,18 @@
-
+1 - Cadastro de Usuários:
+Todo usuário deve fornecer um email válido e confirmar o cadastro.
+Usuários devem ter perfis distintos (doador, receptor, administrador).
+2 - Cadastro de Doações:
+Doações devem especificar o tipo de recurso (alimento, roupa, dinheiro, etc.).
+Doações devem ter um status (disponível, em trânsito, entregue).
+3 - Solicitação de Recursos:
+Receptores devem comprovar a necessidade dos recursos.
+Solicitações devem ter um status (pendente, aprovada, negada, atendida).
+4 - Distribuição de Recursos:
+A distribuição deve priorizar os casos mais urgentes.
+A distribuição deve ser transparente e rastreável.
+5 - Gestão de Usuários:
+Administradores podem aprovar ou negar cadastros de receptores.
+Administradores podem monitorar as doações e distribuições.
+6 - Segurança:
+O sistema deve garantir a segurança dos dados dos usuários.
+O sistema deve auditar todas as operações críticas.
