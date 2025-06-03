@@ -1,1 +1,25 @@
-
+1 - Cadastro de Usuários:
+Permitir que usuários se cadastrem como doadores, receptores ou administradores.
+Solicitar informações de contato e dados relevantes para cada tipo de usuário.
+Validar emails e garantir a segurança das senhas.
+2 - Cadastro de Doações:
+Permitir que doadores cadastrem doações, especificando o tipo de recurso, quantidade e descrição.
+Permitir que doadores anexem fotos dos recursos doados.
+Definir um status para cada doação (disponível, em trânsito, entregue).
+3 - Solicitação de Recursos:
+Permitir que receptores solicitem recursos, especificando o tipo, quantidade e justificativa.
+Solicitar documentos comprobatórios da necessidade dos recursos.
+* Definir um status para cada solicitação (pendente, aprovada, negada, atendida).
+4 - Distribuição de Recursos:
+Permitir que administradores distribuam recursos para os receptores.
+Registrar informações sobre a distribuição (data, responsável, etc.).
+Gerar relatórios de distribuição.
+5 - Comunicação:
+Permitir que usuários se comuniquem por meio de mensagens.
+Enviar notificações sobre doações, solicitações e distribuições.
+6 - Busca e Filtro:
+- Permitir que usuários busquem doações e solicitações por tipo de recurso, localização, etc.
+- Permitir que usuários filtrem os resultados da busca.
+7 - Avaliação:
+Permitir que usuários avaliem as doações e distribuições.
+Gerar relatórios de avaliação.
