@@ -1,1 +1,15 @@
-
+1 - Desempenho:
+O sistema deve responder rapidamente às solicitações dos usuários.
+O sistema deve suportar um grande número de usuários simultâneos.
+2 - Segurança:
+O sistema deve proteger os dados dos usuários contra acesso não autorizado.
+O sistema deve auditar todas as operações críticas.
+3 - Disponibilidade:
+O sistema deve estar disponível 24 horas por dia, 7 dias por semana.
+4 - Usabilidade:
+O sistema deve ser fácil de usar e intuitivo.
+O sistema deve ser acessível para pessoas com deficiência.
+5 - Escalabilidade:
+O sistema deve ser capaz de lidar com um aumento no número de usuários e recursos.
+6 - Manutenibilidade:
+O sistema deve ser fácil de manter e atualizar.
